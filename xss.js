@@ -1,2 +1,2 @@
 use strict;
-return alert('hoho');
+alert('hoho');
